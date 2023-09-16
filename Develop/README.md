@@ -3,7 +3,7 @@
 Github Repo: https://github.com/Erazerlista/PWAtexteditor
 HEROKU:
 Screenshot:
-REF: PWA assignment
+REF: PWA assignment: <img src= "Develop\assets\texteditor.png" alt = "screenshpot of text editor">
 
 # User Story
 
