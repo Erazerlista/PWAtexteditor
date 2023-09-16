@@ -1,5 +1,9 @@
 # Text Editor Starter Code
 
+Github Repo: https://github.com/Erazerlista/PWAtexteditor
+HEROKU:
+Screenshot:
+
 # User Story
 
 AS A developer
