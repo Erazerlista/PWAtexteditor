@@ -1,9 +1,10 @@
 # Text Editor Starter Code
 
 Github Repo: https://github.com/Erazerlista/PWAtexteditor
-HEROKU:
-Screenshot:
-REF: PWA assignment: <img src= "Develop\assets\texteditor.png" alt = "screenshpot of text editor">
+HEROKU: https://pwanotanothertexteditor-3936d4b78a92.herokuapp.com/
+Screenshot: <img src= "Develop\assets\texteditor.png" alt = "screenshpot of text editor">
+REF: PWA assignment
+video: https://drive.google.com/file/d/1BdkW8RmciukDomqy2dtQ4ClkhRbtOEND/view
 
 # User Story
 
