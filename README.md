@@ -3,7 +3,7 @@
 Github Repo: https://github.com/Erazerlista/PWAtexteditor
 HEROKU: https://pwanotanothertexteditor-3936d4b78a92.herokuapp.com/
 Screenshot: <img src= "Develop\assets\texteditor.png" alt = "screenshot of text editor">
-REF: PWA assignment
+REF: PWA assignment, TA
 video: https://drive.google.com/file/d/1BdkW8RmciukDomqy2dtQ4ClkhRbtOEND/view
 
 # User Story
